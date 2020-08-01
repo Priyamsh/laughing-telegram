@@ -7,3 +7,6 @@ So instead of being in an uncertain state the uncertainty could be removed if we
 Through many cases i think we or rather the computer would be able to understand the behaviour in cases of a disaster.
 This would help us alot in taking care of disasters like earthquakes,tsunamis,avalanches,etc.
 However here is a catch we need to counter.There are many other machines on ths planet which do generate infrasounds which ill have to research more about to solve it.
+
+
+MSP- CodeFunDo Level 1
